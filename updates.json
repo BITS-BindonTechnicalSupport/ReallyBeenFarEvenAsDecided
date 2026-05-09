@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "1.0",
+  "manifestType": "updates",
+  "updates": [
+    {
+      "id": "csgo_2013",
+      "targetVersion": "1.0.1",
+      "requiredBaseVersion": "1.0.0",
+      "changelog": "Placeholder — describe what this update fixes or changes.",
+      "updateUrl": "PLACEHOLDER_GOFILE_URL",
+      "gameFileUrl": null,
+      "gameFileDestination": null
+    },
+    {
+      "id": "csgo_2015",
+      "targetVersion": "1.0.1",
+      "requiredBaseVersion": "1.0.0",
+      "changelog": "Placeholder.",
+      "updateUrl": "PLACEHOLDER_GOFILE_URL",
+      "gameFileUrl": null,
+      "gameFileDestination": null
+    }
+  ]
+}
