@@ -52,11 +52,11 @@
       "name": "Arms Deal Update",
       "version": "1.0.0",
       "status": "working",
-      "available": false,
-      "baseUrl": "PLACEHOLDER_GOFILE_URL",
+      "available": true,
+      "baseUrl": "https://store9.gofile.io/download/direct/c3ad2186-5bb8-46c1-90c7-ff1ad8be32d1/2013.zip",
       "patchUrl": "PLACEHOLDER_GOFILE_PATCH_URL",
-      "sizeMb": 0,
-      "notes": "Fully functional"
+      "sizeMb": 9000,
+      "notes": "Functional"
     },
     {
       "id": "csgo_2015",
@@ -70,7 +70,7 @@
       "baseUrl": "https://store-na-phx-5.gofile.io/download/direct/bde2a958-c1bd-4dc4-8b5a-94129894c04b/2015.zip",
       "patchUrl": "https://cold-eu-par-2.gofile.io/download/direct/5580fb7a-f16c-4c48-99b5-825429280f45/steamclient.dll",
       "sizeMb": 10000,
-      "notes": "Fully functional"
+      "notes": "Functional"
     },
     {
       "id": "csgo_2016",
