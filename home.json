@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "1",
+  "hero": {
+    "gameLabel": "★ CS:GO",
+    "launcherLabel": "Rising Tides Launcher",
+    "tagline": "Part 2: Electric Boogaloo",
+    "videoUrl": "https://www.youtube.com/watch?v=xvFZjo5PgG0",
+    "videoLabel": "Watch on ▶ YouTube"
+  },
+  "news": {
+    "version": "Patch 1.0",
+    "headline": "My Sanity is Drained",
+    "headlineColor": "#39FF40",
+    "items": [
+      { "text": "Fixed some shit",  "color": "#B9BFCB" },
+      { "text": "Broke some other shit", "color": "#B9BFCB" },
+      { "text": "Slammed my penis in the car door", "color": "#FFB800" },
+      { "text": "Got too drunk and forgot to do something",         "color": "#858C9B" }
+    ]
+  },
+  "infoCards": [
+    {
+      "title": "★ Versions Page",
+      "badge": "RECOMMENDED",
+      "badgeColor": "#39FF40",
+      "body": "Install or Launch from here, You can also go to Library to see what's installed quickly.",
+      "action": "versions",
+      "actionLabel": "View Versions"
+    },
+    {
+      "title": "DIRECT DOWNLOAD",
+      "badge": "NO EXTRA TOOLS",
+      "badgeColor": "#39FF40",
+      "body": "Versions are downloaded directly through the launcher — no third-party tools or Steam required.",
+      "action": "library",
+      "actionLabel": "View Library"
+    },
+    {
+      "title": "CS2 Support",
+      "badge": "Eventually",
+      "badgeColor": "#FFB800",
+      "body": "Busy Ragebaiting the Arms Dealer, it'll get here when it gets here.",
+      "action": "versions",
+      "actionLabel": "View CS2"
+    }
+  ]
+}
