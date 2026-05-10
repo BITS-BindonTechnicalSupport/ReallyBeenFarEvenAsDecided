@@ -28,10 +28,10 @@
       "actionLabel": "View Versions"
     },
     {
-      "title": "DIRECT DOWNLOAD",
-      "badge": "NO EXTRA TOOLS",
+      "title": "Installed Versions",
+      "badge": "",
       "badgeColor": "#39FF40",
-      "body": "Versions are downloaded directly through the launcher — no third-party tools or Steam required.",
+      "body": "Pretty self explanatory.",
       "action": "library",
       "actionLabel": "View Library"
     },
