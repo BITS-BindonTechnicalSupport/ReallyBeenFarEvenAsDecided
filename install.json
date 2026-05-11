@@ -12,9 +12,7 @@
       "available":    false,
       "notes":        "Game startup in progress — lobby and P2P not functional yet.",
       "baseUrl":      "https://gofile.io/d/PLACEHOLDER",
-      "patchUrl":     null,
-      "linuxBaseUrl": null,
-      "linuxPatchUrl": null
+      "linuxBaseUrl": null
     },
     {
       "id":           "csgo_2012b",
@@ -26,9 +24,7 @@
       "available":    false,
       "notes":        "Bots and lobbies work — players cannot join matches yet.",
       "baseUrl":      "https://gofile.io/d/PLACEHOLDER",
-      "patchUrl":     null,
-      "linuxBaseUrl": null,
-      "linuxPatchUrl": null
+      "linuxBaseUrl": null
     },
     {
       "id":           "csgo_2012",
@@ -40,9 +36,7 @@
       "available":    false,
       "notes":        "Bots and lobbies work — players cannot join matches yet.",
       "baseUrl":      "https://gofile.io/d/PLACEHOLDER",
-      "patchUrl":     null,
-      "linuxBaseUrl": null,
-      "linuxPatchUrl": null
+      "linuxBaseUrl": null
     },
     {
       "id":           "csgo_2013",
@@ -54,9 +48,7 @@
       "available":    true,
       "notes":        "Fully functional — bots, lobbies, and P2P multiplayer all work.",
       "baseUrl":      "https://store9.gofile.io/download/direct/c3ad2186-5bb8-46c1-90c7-ff1ad8be32d1/2013.zip",
-      "patchUrl":     "https://store5.gofile.io/download/direct/5580fb7a-f16c-4c48-99b5-825429280f45/steamclient.dll",
-      "linuxBaseUrl": null,
-      "linuxPatchUrl": null
+      "linuxBaseUrl": null
     },
     {
       "id":           "csgo_2015",
@@ -68,9 +60,7 @@
       "available":    true,
       "notes":        "Fully functional — bots, lobbies, and P2P multiplayer all work.",
       "baseUrl":      "https://store-na-phx-5.gofile.io/download/direct/bde2a958-c1bd-4dc4-8b5a-94129894c04b/2015.zip",
-      "patchUrl":     "https://store5.gofile.io/download/direct/5580fb7a-f16c-4c48-99b5-825429280f45/steamclient.dll",
-      "linuxBaseUrl": "https://store9.gofile.io/download/direct/844b55c0-6d38-43b4-9e87-ee3a3361bcfa/2015Linux.zip",
-      "linuxPatchUrl": "https://cold4.gofile.io/download/direct/44a59382-f7d5-4d4c-b051-ace8305a4e32/steamclient.so"
+      "linuxBaseUrl": "https://store9.gofile.io/download/direct/844b55c0-6d38-43b4-9e87-ee3a3361bcfa/2015Linux.zip"
     },
     {
       "id":           "csgo_2016",
@@ -82,9 +72,7 @@
       "available":    false,
       "notes":        "In progress — startup issues under investigation.",
       "baseUrl":      "https://gofile.io/d/PLACEHOLDER",
-      "patchUrl":     null,
-      "linuxBaseUrl": null,
-      "linuxPatchUrl": null
+      "linuxBaseUrl": null
     },
     {
       "id":           "csgo_2017",
@@ -96,9 +84,7 @@
       "available":    false,
       "notes":        "In progress.",
       "baseUrl":      "https://gofile.io/d/PLACEHOLDER",
-      "patchUrl":     null,
-      "linuxBaseUrl": null,
-      "linuxPatchUrl": null
+      "linuxBaseUrl": null
     },
     {
       "id":           "csgo_2018",
@@ -110,9 +96,7 @@
       "available":    false,
       "notes":        "In progress — battle royale mode requires extra patching.",
       "baseUrl":      "https://gofile.io/d/PLACEHOLDER",
-      "patchUrl":     null,
-      "linuxBaseUrl": null,
-      "linuxPatchUrl": null
+      "linuxBaseUrl": null
     },
     {
       "id":           "csgo_2019",
@@ -124,9 +108,7 @@
       "available":    false,
       "notes":        "In progress.",
       "baseUrl":      "https://gofile.io/d/PLACEHOLDER",
-      "patchUrl":     null,
-      "linuxBaseUrl": null,
-      "linuxPatchUrl": null
+      "linuxBaseUrl": null
     },
     {
       "id":           "csgo_2020",
@@ -138,9 +120,7 @@
       "available":    false,
       "notes":        "In progress.",
       "baseUrl":      "https://gofile.io/d/PLACEHOLDER",
-      "patchUrl":     null,
-      "linuxBaseUrl": null,
-      "linuxPatchUrl": null
+      "linuxBaseUrl": null
     },
     {
       "id":           "csgo_2021",
@@ -152,9 +132,7 @@
       "available":    false,
       "notes":        "In progress.",
       "baseUrl":      "https://gofile.io/d/PLACEHOLDER",
-      "patchUrl":     null,
-      "linuxBaseUrl": null,
-      "linuxPatchUrl": null
+      "linuxBaseUrl": null
     },
     {
       "id":           "csgo_2022",
@@ -166,9 +144,7 @@
       "available":    false,
       "notes":        "In progress.",
       "baseUrl":      "https://gofile.io/d/PLACEHOLDER",
-      "patchUrl":     null,
-      "linuxBaseUrl": null,
-      "linuxPatchUrl": null
+      "linuxBaseUrl": null
     },
     {
       "id":           "cs2_2026",
@@ -180,9 +156,7 @@
       "available":    false,
       "notes":        "Fuggin Uhhhh",
       "baseUrl":      "https://gofile.io/d/PLACEHOLDER",
-      "patchUrl":     null,
-      "linuxBaseUrl": null,
-      "linuxPatchUrl": null
+      "linuxBaseUrl": null
     }
   ]
 }

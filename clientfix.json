@@ -1,0 +1,12 @@
+{
+  "csgo": {
+    "version":    "1.0.0",
+    "windowsUrl": "https://store5.gofile.io/download/direct/5580fb7a-f16c-4c48-99b5-825429280f45/steamclient.dll",
+    "linuxUrl":   "https://cold4.gofile.io/download/direct/44a59382-f7d5-4d4c-b051-ace8305a4e32/steamclient.so"
+  },
+  "cs2": {
+    "version":    "1.0.0",
+    "windowsUrl": "https://store1.gofile.io/download/direct/4b2d2366-3546-4907-b515-fa2d6d83a7c9/steamclient.dll",
+    "linuxUrl":   "null"
+  }
+}
