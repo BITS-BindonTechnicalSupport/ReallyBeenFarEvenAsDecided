@@ -1,24 +1,33 @@
 {
-  "schemaVersion": "1.0",
+  "schemaVersion": "1",
   "manifestType": "updates",
   "updates": [
     {
-      "id": "csgo_2013",
-      "targetVersion": "1.0.1",
-      "requiredBaseVersion": "1.0.0",
-      "changelog": "Placeholder — describe what this update fixes or changes.",
-      "updateUrl": "PLACEHOLDER_GOFILE_URL",
-      "gameFileUrl": null,
-      "gameFileDestination": null
+      "id":                  "csgo_2015",
+      "targetVersion":       "1.1",
+      "requiredBaseVersion": "1.0",
+      "updateUrl":           "https://gofile.io/d/PLACEHOLDER",
+      "gameFileUrl":         null,
+      "linuxUpdateUrl":      "https://gofile.io/d/PLACEHOLDER",
+      "linuxGameFileUrl":    null
     },
     {
-      "id": "csgo_2015",
-      "targetVersion": "1.0.1",
-      "requiredBaseVersion": "1.0.0",
-      "changelog": "Steam Client Update",
-      "updateUrl": "PLACEHOLDER_GOFILE_URL",
-      "gameFileUrl": null,
-      "gameFileDestination": null
+      "id":                  "csgo_2015",
+      "targetVersion":       "1.2",
+      "requiredBaseVersion": "1.1",
+      "updateUrl":           "https://gofile.io/d/PLACEHOLDER",
+      "gameFileUrl":         "https://gofile.io/d/PLACEHOLDER",
+      "linuxUpdateUrl":      "https://gofile.io/d/PLACEHOLDER",
+      "linuxGameFileUrl":    "https://gofile.io/d/PLACEHOLDER"
+    },
+    {
+      "id":                  "csgo_2013",
+      "targetVersion":       "1.1",
+      "requiredBaseVersion": "1.0",
+      "updateUrl":           "https://gofile.io/d/PLACEHOLDER",
+      "gameFileUrl":         null,
+      "linuxUpdateUrl":      null,
+      "linuxGameFileUrl":    null
     }
   ]
 }
