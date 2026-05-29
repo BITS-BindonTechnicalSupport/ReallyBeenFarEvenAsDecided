@@ -50,6 +50,17 @@
       "baseUrl":      "https://store9.gofile.io/download/direct/c3ad2186-5bb8-46c1-90c7-ff1ad8be32d1/2013.zip",
       "linuxBaseUrl": null
     },
+      "id":           "csgo_2014",
+      "game":         "csgo",
+      "year":         "2013",
+      "folderName":   "2013",
+      "name":         "Wuh Update",
+      "status":       "working",
+      "available":    true,
+      "notes":        "1.13.3.0",
+      "baseUrl":      "https://gofile.io/d/PLACEHOLDER",
+      "linuxBaseUrl": null
+    },
     {
       "id":           "csgo_2015",
       "game":         "csgo",
