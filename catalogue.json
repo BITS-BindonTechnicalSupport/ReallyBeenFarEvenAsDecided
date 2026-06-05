@@ -1,0 +1,118 @@
+{
+  "schemaVersion": "1",
+  "manifestType": "catalogue",
+  "versions": [
+    {
+      "id": "csgo_2011",
+      "game": "csgo",
+      "year": "2011",
+      "name": "Counter-Strike: Global Offensive (Pre-release)",
+      "status": "wip",
+      "notes": "Game startup in progress — lobby and P2P not functional yet"
+    },
+    {
+      "id": "csgo_2012b",
+      "game": "csgo",
+      "year": "2012 β",
+      "name": "Beta Release",
+      "status": "partial",
+      "notes": "Starts with bots only — lobby P2P not functional"
+    },
+    {
+      "id": "csgo_2012",
+      "game": "csgo",
+      "year": "2012",
+      "name": "Official Launch",
+      "status": "partial",
+      "notes": "Bots and lobbies work; players cannot join the match yet"
+    },
+    {
+      "id": "csgo_2013",
+      "game": "csgo",
+      "year": "2013",
+      "name": "Arms Deal Update",
+      "status": "working",
+      "notes": "Fully functional — bots, lobbies, and P2P multiplayer all work"
+    },
+    {
+      "id": "csgo_2014",
+      "game": "csgo",
+      "year": "2014",
+      "name": "Pre-Howl Cucking",
+      "status": "working",
+      "notes": "1.13.3.0"
+    },
+    {
+      "id": "csgo_2015",
+      "game": "csgo",
+      "year": "2015",
+      "name": "Operation Vanguard",
+      "status": "working",
+      "notes": "Fully functional"
+    },
+    {
+      "id": "csgo_2016",
+      "game": "csgo",
+      "year": "2016",
+      "name": "Operation Wildfire",
+      "status": "wip",
+      "notes": "In progress — startup issues under investigation"
+    },
+    {
+      "id": "csgo_2017",
+      "game": "csgo",
+      "year": "2017",
+      "name": "Operation Hydra",
+      "status": "wip",
+      "notes": "In progress"
+    },
+    {
+      "id": "csgo_2018",
+      "game": "csgo",
+      "year": "2018",
+      "name": "Danger Zone",
+      "status": "wip",
+      "notes": "In progress — battle royale mode requires extra patching"
+    },
+    {
+      "id": "csgo_2019",
+      "game": "csgo",
+      "year": "2019",
+      "name": "Shattered Web",
+      "status": "wip",
+      "notes": "In progress"
+    },
+    {
+      "id": "csgo_2020",
+      "game": "csgo",
+      "year": "2020",
+      "name": "Operation Broken Fang",
+      "status": "wip",
+      "notes": "In progress"
+    },
+    {
+      "id": "csgo_2021",
+      "game": "csgo",
+      "year": "2021",
+      "name": "Operation Riptide",
+      "status": "wip",
+      "notes": "In progress"
+    },
+    {
+      "id": "csgo_2022",
+      "game": "csgo",
+      "year": "2022",
+      "name": "Operation Ancient",
+      "status": "wip",
+      "notes": "In progress"
+    },
+    {
+      "id": "cs2_2026",
+      "game": "cs2",
+      "year": "CS2 2026",
+      "name": "Counter-Strike 2",
+      "status": "patches_pending",
+      "notes": "Compatibility patches are being finalised — check back soon"
+    }
+  ]
+}
