@@ -9,7 +9,9 @@
       "folderName":   "2011",
       "available":    false,
       "baseUrl":      "https://gofile.io/d/PLACEHOLDER",
-      "linuxBaseUrl": null
+      "linuxBaseUrl": null,
+      "winBinUrl":    null,
+      "linuxBinUrl":  null
     },
     {
       "id":           "csgo_2012b",
@@ -18,7 +20,9 @@
       "folderName":   "2012_beta",
       "available":    false,
       "baseUrl":      "https://gofile.io/d/PLACEHOLDER",
-      "linuxBaseUrl": null
+      "linuxBaseUrl": null,
+      "winBinUrl":    null,
+      "linuxBinUrl":  null
     },
     {
       "id":           "csgo_2012",
@@ -27,7 +31,9 @@
       "folderName":   "2012",
       "available":    false,
       "baseUrl":      "https://gofile.io/d/PLACEHOLDER",
-      "linuxBaseUrl": null
+      "linuxBaseUrl": null,
+      "winBinUrl":    null,
+      "linuxBinUrl":  null
     },
     {
       "id":           "csgo_2013",
@@ -36,7 +42,9 @@
       "folderName":   "2013",
       "available":    true,
       "baseUrl":      "https://cold-eu-par-1.gofile.io/download/direct/15f5ec9e-cdd7-4405-b90f-b203dfbed8c0/2013.zip",
-      "linuxBaseUrl": null
+      "linuxBaseUrl": null,
+      "winBinUrl":    null,
+      "linuxBinUrl":  null
     },
     {
       "id":           "csgo_2014",
@@ -45,7 +53,9 @@
       "folderName":   "2014",
       "available":    true,
       "baseUrl":      "https://gofile.io/d/PLACEHOLDER",
-      "linuxBaseUrl": null
+      "linuxBaseUrl": null,
+      "winBinUrl":    null,
+      "linuxBinUrl":  null
     },
     {
       "id":           "csgo_2015",
@@ -54,8 +64,9 @@
       "folderName":   "2015",
       "available":    true,
       "baseUrl":      "https://cold5.gofile.io/download/direct/ab64aeb9-e11e-428b-abbd-957089b4dcca/731_6869489135525115815.zip",
-	  "linuxbinUrl": "https://cold-eu-agl-1.gofile.io/download/direct/b7f0d730-b1b8-460a-bffb-1c0bbed1e58e/734_3228010540006005332.tar.gz"
-      "winbinUrl": "https://cold5.gofile.io/download/direct/ffb244e3-3d0b-4100-8573-964225b6705d/732_6170877622570451739.zip"
+      "linuxBaseUrl": null,
+      "winBinUrl":    "https://cold5.gofile.io/download/direct/ffb244e3-3d0b-4100-8573-964225b6705d/732_6170877622570451739.zip",
+      "linuxBinUrl":  "https://cold-eu-agl-1.gofile.io/download/direct/b7f0d730-b1b8-460a-bffb-1c0bbed1e58e/734_3228010540006005332.tar.gz"
     },
     {
       "id":           "csgo_2016",
@@ -64,7 +75,9 @@
       "folderName":   "2016",
       "available":    false,
       "baseUrl":      "https://gofile.io/d/PLACEHOLDER",
-      "linuxBaseUrl": null
+      "linuxBaseUrl": null,
+      "winBinUrl":    null,
+      "linuxBinUrl":  null
     },
     {
       "id":           "csgo_2017",
@@ -73,7 +86,9 @@
       "folderName":   "2017",
       "available":    false,
       "baseUrl":      "https://gofile.io/d/PLACEHOLDER",
-      "linuxBaseUrl": null
+      "linuxBaseUrl": null,
+      "winBinUrl":    null,
+      "linuxBinUrl":  null
     },
     {
       "id":           "csgo_2018",
@@ -82,7 +97,9 @@
       "folderName":   "2018",
       "available":    false,
       "baseUrl":      "https://gofile.io/d/PLACEHOLDER",
-      "linuxBaseUrl": null
+      "linuxBaseUrl": null,
+      "winBinUrl":    null,
+      "linuxBinUrl":  null
     },
     {
       "id":           "csgo_2019",
@@ -91,7 +108,9 @@
       "folderName":   "2019",
       "available":    false,
       "baseUrl":      "https://gofile.io/d/PLACEHOLDER",
-      "linuxBaseUrl": null
+      "linuxBaseUrl": null,
+      "winBinUrl":    null,
+      "linuxBinUrl":  null
     },
     {
       "id":           "csgo_2020",
@@ -100,7 +119,9 @@
       "folderName":   "2020",
       "available":    false,
       "baseUrl":      "https://gofile.io/d/PLACEHOLDER",
-      "linuxBaseUrl": null
+      "linuxBaseUrl": null,
+      "winBinUrl":    null,
+      "linuxBinUrl":  null
     },
     {
       "id":           "csgo_2021",
@@ -109,7 +130,9 @@
       "folderName":   "2021",
       "available":    false,
       "baseUrl":      "https://gofile.io/d/PLACEHOLDER",
-      "linuxBaseUrl": null
+      "linuxBaseUrl": null,
+      "winBinUrl":    null,
+      "linuxBinUrl":  null
     },
     {
       "id":           "csgo_2022",
@@ -118,7 +141,9 @@
       "folderName":   "2022",
       "available":    false,
       "baseUrl":      "https://gofile.io/d/PLACEHOLDER",
-      "linuxBaseUrl": null
+      "linuxBaseUrl": null,
+      "winBinUrl":    null,
+      "linuxBinUrl":  null
     },
     {
       "id":           "cs2_2026",
@@ -127,7 +152,9 @@
       "folderName":   "cs2_2026",
       "available":    false,
       "baseUrl":      "https://gofile.io/d/PLACEHOLDER",
-      "linuxBaseUrl": null
+      "linuxBaseUrl": null,
+      "winBinUrl":    null,
+      "linuxBinUrl":  null
     }
   ]
 }
