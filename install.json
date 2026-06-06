@@ -53,8 +53,9 @@
       "year":         "2015",
       "folderName":   "2015",
       "available":    true,
-      "baseUrl":      "https://store-na-phx-5.gofile.io/download/direct/bde2a958-c1bd-4dc4-8b5a-94129894c04b/2015.zip",
-      "linuxBaseUrl": "https://store9.gofile.io/download/direct/844b55c0-6d38-43b4-9e87-ee3a3361bcfa/2015Linux.zip"
+      "baseUrl":      "https://cold5.gofile.io/download/direct/ab64aeb9-e11e-428b-abbd-957089b4dcca/731_6869489135525115815.zip",
+	  "linuxbinUrl": "https://cold-eu-agl-1.gofile.io/download/direct/b7f0d730-b1b8-460a-bffb-1c0bbed1e58e/734_3228010540006005332.tar.gz"
+      "winbinUrl": "https://cold5.gofile.io/download/direct/ffb244e3-3d0b-4100-8573-964225b6705d/732_6170877622570451739.zip"
     },
     {
       "id":           "csgo_2016",
