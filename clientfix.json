@@ -1,8 +1,8 @@
 {
   "csgo": {
-    "version":    "1.0.0",
-    "windowsUrl": "https://store5.gofile.io/download/direct/5580fb7a-f16c-4c48-99b5-825429280f45/steamclient.dll",
-    "linuxUrl":   "https://cold4.gofile.io/download/direct/44a59382-f7d5-4d4c-b051-ace8305a4e32/steamclient.so"
+    "version":    "1.0.1",
+    "windowsUrl": "https://store-na-phx-5.gofile.io/download/direct/06506612-755b-47b5-a7dd-a0b9dd7b9a99/steamclient.dll",
+    "linuxUrl":   "https://store-na-phx-4.gofile.io/download/direct/6d702458-644f-4f39-a103-e9cb85a531d6/steamclient.so"
   },
   "cs2": {
     "version":    "1.0.0",
