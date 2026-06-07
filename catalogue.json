@@ -54,7 +54,7 @@
       "name": "Operation Vanguard",
       "status": "working",
       "notes": "Fully functional",
-      "supportsLoader": false
+      "supportsLoader": true
     },
     {
       "id": "csgo_2016",
