@@ -45,7 +45,7 @@
       "name": "Pre-Howl Cucking",
       "status": "working",
       "notes": "1.13.3.0",
-      "supportsLoader": false
+      "supportsLoader": true
     },
     {
       "id": "csgo_2015",
