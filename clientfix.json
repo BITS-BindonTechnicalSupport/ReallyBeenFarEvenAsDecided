@@ -1,6 +1,6 @@
 {
   "csgo": {
-    "version":    "1.0.1",
+    "version":    "1.0.2",
     "windowsUrl": "https://store-na-phx-5.gofile.io/download/direct/06506612-755b-47b5-a7dd-a0b9dd7b9a99/steamclient.dll",
     "linuxUrl":   "https://store-na-phx-4.gofile.io/download/direct/6d702458-644f-4f39-a103-e9cb85a531d6/steamclient.so"
   },
