@@ -63,10 +63,10 @@
       "year":         "2015",
       "folderName":   "2015",
       "available":    true,
-      "baseUrl":      "https://cold5.gofile.io/download/direct/ab64aeb9-e11e-428b-abbd-957089b4dcca/731_6869489135525115815.zip",
+      "baseUrl":      "https://cold-na-phx-1.gofile.io/download/direct/74b95400-10c8-4ad9-adb1-383bcdf98c29/731_4555409087660809164.zip",
       "linuxBaseUrl": null,
-      "winBinUrl":    "https://cold5.gofile.io/download/direct/ffb244e3-3d0b-4100-8573-964225b6705d/732_6170877622570451739.zip",
-      "linuxBinUrl":  "https://cold-eu-agl-1.gofile.io/download/direct/b7f0d730-b1b8-460a-bffb-1c0bbed1e58e/734_3228010540006005332.tar.gz"
+      "winBinUrl":    "https://cold-eu-par-1.gofile.io/download/direct/c097a161-b9d7-4d16-8dba-5df98402622b/732_1079493453289209936.zip",
+      "linuxBinUrl":  "https://cold-eu-par-2.gofile.io/download/direct/3fe671ff-a0bc-4c43-8206-e750d3f15d78/734_3783516896029459256.tar.gz"
     },
     {
       "id":           "csgo_2016",
@@ -117,11 +117,11 @@
       "game":         "csgo",
       "year":         "2020",
       "folderName":   "2020",
-      "available":    false,
-      "baseUrl":      "https://gofile.io/d/PLACEHOLDER",
+      "available":    true,
+      "baseUrl":      "https://cold5.gofile.io/download/direct/ab64aeb9-e11e-428b-abbd-957089b4dcca/731_6869489135525115815.zip",
       "linuxBaseUrl": null,
-      "winBinUrl":    null,
-      "linuxBinUrl":  null
+      "winBinUrl":    "https://cold5.gofile.io/download/direct/ffb244e3-3d0b-4100-8573-964225b6705d/732_6170877622570451739.zip",
+      "linuxBinUrl":  "https://cold-eu-agl-1.gofile.io/download/direct/b7f0d730-b1b8-460a-bffb-1c0bbed1e58e/734_3228010540006005332.tar.gz"
     },
     {
       "id":           "csgo_2021",

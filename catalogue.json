@@ -97,9 +97,9 @@
       "game": "csgo",
       "year": "2020",
       "name": "Operation Broken Fang",
-      "status": "wip",
-      "notes": "In progress",
-      "supportsLoader": false
+      "status": "working",
+      "notes": "AHHHHHHHHH",
+      "supportsLoader": true
     },
     {
       "id": "csgo_2021",
