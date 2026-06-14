@@ -1,12 +1,13 @@
 {
   "csgo": {
-    "version":    "1.0.3",
-    "windowsUrl": "https://store-na-phx-5.gofile.io/download/direct/06506612-755b-47b5-a7dd-a0b9dd7b9a99/steamclient.dll",
-    "linuxUrl":   "https://store-na-phx-4.gofile.io/download/direct/6d702458-644f-4f39-a103-e9cb85a531d6/steamclient.so"
+    "version":     "1.1.0",
+    "windowsUrl":  "https://store-na-phx-5.gofile.io/download/direct/7b3645ac-bfbf-43b6-83e0-520ccff1dc9b/steamclient.dll",
+    "linuxUrl":    "https://store-na-phx-3.gofile.io/download/direct/38bb0989-4543-49b8-9ac6-d9f9a0fd50f2/steamclient.so",
+    "linux64Url":  "https://store9.gofile.io/download/direct/4d05c07c-b98c-4011-948d-602d2c5da022/steamclient.so"
   },
   "cs2": {
-    "version":    "1.0.0",
-    "windowsUrl": "https://store1.gofile.io/download/direct/4b2d2366-3546-4907-b515-fa2d6d83a7c9/steamclient.dll",
-    "linuxUrl":   "null"
+    "version":     "1.1.6",
+    "windowsUrl":  "https://store-na-phx-3.gofile.io/download/direct/51a8207f-35d9-405d-a66d-bf9f2f0d9b1a/steamclient.dll",
+    "linuxUrl":    "https://store9.gofile.io/download/direct/f11aa17e-b716-46ce-a7e4-b8c7f03b872b/steamclient.so"
   }
 }
